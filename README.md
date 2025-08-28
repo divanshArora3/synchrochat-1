@@ -46,3 +46,4 @@ Make sure you have:
 ```bash
 git clone https://github.com/your-username/full-stack-realtime-chat-app.git
 cd full-stack-chat-app
+# synchroChat
